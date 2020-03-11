@@ -14,5 +14,5 @@ management:
       exposure:
         include: "*"
 name: "黄剑"
-age: "32"
-address: "贵阳市"
+age: "25"
+address: "北京市朝阳区雅宝城"
