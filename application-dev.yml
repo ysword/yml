@@ -13,6 +13,6 @@ management:
     web:
       exposure:
         include: "*"
-name: "黄剑"
-age: "25"
-address: "北京市朝阳区雅宝城"
+name: '{cipher}eeddd9514d75f8f6018bacc946e0c3af791a28589184344d4d98de8a3ab7720e'
+age: '{cipher}3e07d6937c400e46434ec4f26f3ea32a62580ff9f4aca713a715e3a95a2cfece'
+address: '{cipher}5863ff30cee3649bb91e84812210092d07181a9cc62340b60cebcaa66574b0b2c119a4ffe2dcc97ff7fe8501686a451a3d03bed2abbb70279e1c9da9a0919bba'
